@@ -1,6 +1,6 @@
 # hmapp
 
-A new Flutter project.
+Health Monitoring Application
 
 ## Getting Started
 
